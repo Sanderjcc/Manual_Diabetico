@@ -33,7 +33,7 @@ function send(){
        
         const outputText = document.createElement('p')
         const homeButton = document.createElement('img')
-        homeButton.src = '../assets/leftArrow.png'
+        homeButton.src = 'assets/leftArrow.png'
         homeButton.style.cursor = 'pointer'
         homeButton.style.width = '30px'
         homeButton.addEventListener('click', back)
