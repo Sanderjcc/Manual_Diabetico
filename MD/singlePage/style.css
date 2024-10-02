@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font: 20px Arial;
+    background-color: blanchedalmond;
+}
+
+section#base{
+    width: 500px;
+    margin: auto;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 9px 8px 9px rgba(0, 0, 0, 0.185);
+    background-color: white;
+    
+}
+img#sendButton {
+    cursor: pointer;
+    margin: 20px auto;
+    display: block;
+}
+
+
